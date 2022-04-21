@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    padding: 20px;
+}
+
+.logo {
+    width: 120px;
+}
+
+.titulo-principal {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 40px;
+    background:linear-gradient(to right, #dbdcd7 0%, #dddcd7 24%, #e2c9cc 30%, #e7627d 46%, #b8235a 59%, #801357 71%, #3d1635 84%, #1c1a27 100%);
+}
+
+.seccion-principal {
+    padding: 20px;
+}
+
+.btn-primary {
+    color: #1c1a27;
+    background-color: white;
+    border: none;
+}
+
+
+
+
+
